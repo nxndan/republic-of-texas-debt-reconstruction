@@ -1,0 +1,10 @@
+# Sources
+
+1. E. T. Miller, "Debt of the Republic of Texas," *Handbook of Texas Online*, Texas State Historical Association. https://www.tshaonline.org/handbook/entries/debt-of-the-republic-of-texas
+   (Original publication 1952; last revised May 29, 2020. Add your own "accessed" date.)
+2. Edmund Thornton Miller, *A Financial History of Texas*, University of Texas Bulletin No. 37 (Austin, 1916). Free full text: https://archive.org/details/financialhistory00millrich
+3. Texas State Library and Archives Commission, Republic Claims (name index with scanned images; **not used for numbers** because it is not a structured dataset). https://www.tsl.texas.gov/arc/republicclaims
+
+## Not yet checked (add after you read them)
+- Text of the Act of Congress of February 28, 1855 (confirm the proration was uniform)
+- Text of the Compromise of 1850 boundary-and-debt provisions
