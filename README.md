@@ -1,4 +1,4 @@
-# Who Took the Haircut? The Republic of Texas Debt Settlement, 1850-1856
+# The Republic of Texas Debt Settlement, 1850-1856
 
 A small reconstructed dataset and analysis of how the Republic of Texas's debt was scaled by the state and settled by the U.S. Congress.
 
