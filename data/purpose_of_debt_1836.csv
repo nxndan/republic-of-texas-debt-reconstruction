@@ -1,7 +1,7 @@
 category,amount_usd,as_of,source,miller_page,second_person_verified
-Loans,100000,1836-08-26,Miller A Financial History of Texas (1916),17,NO
-Army,412000,1836-08-26,Miller A Financial History of Texas (1916),17,NO
-Navy,112000,1836-08-26,Miller A Financial History of Texas (1916),17,NO
-Supplies,450000,1836-08-26,Miller A Financial History of Texas (1916),17,NO
-Civil and contingent expenses,118000,1836-08-26,Miller A Financial History of Texas (1916),17,NO
-Not itemized,60000,1836-08-26,Miller A Financial History of Texas (1916),17,NO
+Loans,100000,1836-08-26,Miller A Financial History of Texas (1916),17,YES
+Army,412000,1836-08-26,Miller A Financial History of Texas (1916),17,YES
+Navy,112000,1836-08-26,Miller A Financial History of Texas (1916),17,YES
+Supplies,450000,1836-08-26,Miller A Financial History of Texas (1916),17,YES
+Civil and contingent expenses,118000,1836-08-26,Miller A Financial History of Texas (1916),17,YES
+Not itemized,60000,1836-08-26,Miller A Financial History of Texas (1916),17,YES
