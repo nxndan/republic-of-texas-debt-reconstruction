@@ -41,7 +41,7 @@ State-scaled value versus a flat federal payout of $7.75 million (about 76.89 ce
 | TREAS8 | 1,417,680.00 | 283,536.00 | 1,090,122.39 | 0.2000 | 806,586.39 |
 | **Total** | **10,078,703.21** | **4,467,756.43** | **7,750,000.00** | **0.4433** | **3,282,243.57** |
 
-PA_BANK is the only instrument that receives less under the flat federal rate than under the state's own rating. The other five receive more. The largest dollar gains go to the treasury notes (NOTES, about $1.25 million) and the 1840 treasury bonds (TREAS8, about $0.81 million), followed closely by FUND1840 (about $0.79 million). The Total row is my addition and is not printed by the script.
+PA_BANK is the only instrument that receives less under the flat federal rate than under the state's own rating. The other five receive more. The largest dollar gains go to the treasury notes (NOTES, about $1.25 million) and the 1840 treasury bonds (TREAS8, about $0.81 million), followed closely by FUND1840 (about $0.79 million).
 
 ## Key assumption and limitations
 - **Uniform proration.** The federal payment is modeled as a flat percentage of each instrument's final principal plus interest. Miller (1916, pp. 63, 64, 74, 79) describes pro rata payment at 76 9/10 cents on the dollar under the Act of February 28, 1855. [CONFIRM: say whether you read the Act's text and whether it confirms uniform proration; if not, keep this described as supported by a secondary source only]
