@@ -52,5 +52,9 @@ These differences compare two valuation and allocation frameworks. They should n
 - **No present-value adjustment.** All amounts are nominal, as of final settlement.
 - **Holders not covered.** The analysis compares instruments, not who ultimately held them.
 
+## Project status and next steps
+
+This repository is a preliminary reconstruction prepared for mentor review. The dataset and initial quantitative analysis are complete, while the scope of a formal research paper remains to be determined with the research mentors. Next steps include independently examining the original federal legislation and evaluating opportunities for further primary-source verification.
+
 ## License
 Code: MIT (see `LICENSE`). Data and text: please cite this repository.
