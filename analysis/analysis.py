@@ -1,19 +1,25 @@
 """
-Analysis: Who took the haircut? Republic of Texas debt settlement (1850-1856).
+Republic of Texas debt settlement: comparison of two allocation frameworks.
 
-Run from the repository's top folder:   python analysis/analysis.py
+Run from the repository's top folder:
+    python analysis/analysis.py
 
-What it does
-1. Loads data/debt_instruments.csv
-2. Checks the data against totals published in the TSHA entry (tie-out checks)
-3. Compares, for each instrument, what the STATE'S OWN SCALING would have paid
-   with what a flat federal pro-rata payment of $7.75 million would have paid
-4. Saves a table and a chart to the outputs/ folder
+What it does:
+1. Loads data/debt_instruments.csv.
+2. Checks reconstructed figures against published aggregate totals.
+3. Compares Texas's original state-scaled valuations with a modeled allocation
+   of the $7.75 million federal appropriation.
+4. Saves an instrument-level results table and comparison chart.
 
-KEY ASSUMPTION (must be stated in the paper): the federal payment is treated as a
-flat percentage of every instrument's final principal-plus-interest. TSHA says the
-$7.75M was prorated among holders of the unscaled revenue debt; confirm with Miller
-and the text of the Act of Feb 28, 1855 that the proration was uniform.
+IMPORTANT INTERPRETIVE LIMITATION:
+The federal allocation assumes a uniform proportional rate applied to each
+instrument's final principal plus interest. Miller (1916, pp. 63, 64, 74, 79)
+supports this interpretation, but the original Act of February 28, 1855 has
+not yet been independently checked.
+
+The calculated federal amounts are modeled allocations, not independently
+verified historical disbursements. Differences between the two frameworks
+are not established realized gains or losses for individual creditors.
 """
 import os
 import pandas as pd
@@ -39,6 +45,8 @@ print(f"State overall rate implied = {STATE_SCALED_TOTAL / REVENUE_DEBT_TOTAL:.4
 
 def check(label, ok):
     print(("PASS  " if ok else "FAIL  ") + label)
+    if not ok:
+        raise ValueError(f"Verification check failed: {label}")
 
 total_final = df["final_amount"].sum()
 df["state_scaled_amount"] = df["final_amount"] * df["state_rating"]
