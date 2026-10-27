@@ -1,10 +1,10 @@
 instrument_id,instrument,tranche,interest_rate,principal_issued_usd,final_principal_plus_interest_usd,state_rating,named_holder,purpose,source,miller_page,second_person_verified
-PA_BANK,10% bonds of the 1838 $5 million loan act,all,10%,457380,960498.00,0.8745,Pennsylvania Bank of the United States,Loan raised by selling bonds,TSHA Debt of the Republic of Texas,60; 62-63,NO
-NAVAL,Naval (Dawson and Holford) debt - forfeited 10% bonds,all,10%,,1622404.70,0.50,,Purchase of two vessels; bonds forfeited when price unpaid at maturity,TSHA Debt of the Republic of Texas,63-64,NO
-FUND1837,10% funding bonds of June 1837,at par,10%,837500,29291.47,1.00,,Exchanged for audited drafts claims and land scrip,TSHA Debt of the Republic of Texas,79-80,NO
-FUND1837,10% funding bonds of June 1837,rated 70 cents,10%,,1657803.33,0.70,,Exchanged for audited drafts claims and land scrip,TSHA Debt of the Republic of Texas,79-80,NO
-FUND1840,10% and 8% bonds of Feb 5 1840 funding treasury notes,all,10% and 8%,840880,1674380.42,0.30,,Funding of treasury notes,TSHA Debt of the Republic of Texas,80-81,NO
-NOTES,Treasury notes (including non-interest-bearing redbacks),at par,10% early notes; none on redbacks,3945500,65208.33,1.00,,Paper money issued to pay government expenses,TSHA Debt of the Republic of Texas,73-74,NO
-NOTES,Treasury notes (including non-interest-bearing redbacks),rated 50 cents,,,451708.32,0.50,,Paper money issued to pay government expenses,TSHA Debt of the Republic of Texas,73-74,NO
-NOTES,Treasury notes (including non-interest-bearing redbacks),redbacks rated 25 cents,none,,2199728.64,0.25,,Paper money issued to pay government expenses,TSHA Debt of the Republic of Texas,73-74,NO
-TREAS8,"8% treasury bonds (act of Feb 5, 1840)",all,8%,849900,1417680.00,0.20,,Bonds used to pay the 1840 appropriations of the Fourth Congress (Lamar administration),"Miller 1916 pp. 78-79 (principal and interest to July 1, 1850)",78-79,NO
+PA_BANK,10% bonds of the 1838 $5 million loan act,all,10%,457380,960498.00,0.8745,Pennsylvania Bank of the United States,Loan raised by selling bonds,TSHA Debt of the Republic of Texas,60; 62-63,YES
+NAVAL,Naval (Dawson and Holford) debt - forfeited 10% bonds,all,10%,,1622404.70,0.50,,Purchase of two vessels; bonds forfeited when price unpaid at maturity,TSHA Debt of the Republic of Texas,63-64,YES
+FUND1837,10% funding bonds of June 1837,at par,10%,837500,29291.47,1.00,,Exchanged for audited drafts claims and land scrip,TSHA Debt of the Republic of Texas,79-80,YES
+FUND1837,10% funding bonds of June 1837,rated 70 cents,10%,,1657803.33,0.70,,Exchanged for audited drafts claims and land scrip,TSHA Debt of the Republic of Texas,79-80,YES
+FUND1840,10% and 8% bonds of Feb 5 1840 funding treasury notes,all,10% and 8%,840880,1674380.42,0.30,,Funding of treasury notes,TSHA Debt of the Republic of Texas,80-81,YES
+NOTES,Treasury notes (including non-interest-bearing redbacks),at par,10% early notes; none on redbacks,3945500,65208.33,1.00,,Paper money issued to pay government expenses,TSHA Debt of the Republic of Texas,73-74,YES
+NOTES,Treasury notes (including non-interest-bearing redbacks),rated 50 cents,,,451708.32,0.50,,Paper money issued to pay government expenses,TSHA Debt of the Republic of Texas,73-74,YES
+NOTES,Treasury notes (including non-interest-bearing redbacks),redbacks rated 25 cents,none,,2199728.64,0.25,,Paper money issued to pay government expenses,TSHA Debt of the Republic of Texas,73-74,YES
+TREAS8,"8% treasury bonds (act of Feb 5, 1840)",all,8%,849900,1417680.00,0.20,,Bonds used to pay the 1840 appropriations of the Fourth Congress (Lamar administration),"Miller 1916 pp. 78-79 (principal and interest to July 1, 1850)",78-79,YES
